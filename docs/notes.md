@@ -1,3 +1,5 @@
-# Notes
+---
+title: Notes
+---
 
-Placeholder for general notes.
+Working notes, decisions, and open questions live here.
