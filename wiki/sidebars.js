@@ -1,4 +1,4 @@
-// @ts-check
+﻿// @ts-check
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -6,12 +6,20 @@
 const sidebars = {
   wikiSidebar: [
     {type: 'doc', id: 'index', label: 'Головна'},
-    {type: 'doc', id: 'modules'},
-    {type: 'doc', id: 'modules/script'},
-    {type: 'doc', id: 'modules/visual'},
-    {type: 'doc', id: 'modules/audio'},
-    {type: 'doc', id: 'modules/assembly'},
-    {type: 'doc', id: 'modules/upload'},
+    {
+      type: 'category',
+      label: 'Модулі',
+      collapsible: true,
+      collapsed: true,
+      items: [
+        'modules',
+        'modules/script',
+        'modules/visual',
+        'modules/audio',
+        'modules/assembly',
+        'modules/upload',
+      ],
+    },
     {type: 'doc', id: 'architecture'},
     {type: 'doc', id: 'pipeline'},
     {type: 'doc', id: 'notes'},
