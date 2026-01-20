@@ -36,8 +36,16 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'uk',
+    locales: ['uk', 'en'],
+    localeConfigs: {
+      uk: {
+        label: 'Українська',
+      },
+      en: {
+        label: 'English',
+      },
+    },
   },
 
   presets: [
@@ -77,6 +85,10 @@ const config = {
             sidebarId: 'wikiSidebar',
             position: 'left',
             label: 'Wiki',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
           },
           {
             href: 'https://github.com/aborigen19961202/ContentFactory',

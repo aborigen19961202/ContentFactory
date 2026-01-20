@@ -1,11 +1,11 @@
 ---
-title: Architecture
+title: Архітектура
 ---
 
-High-level architecture:
-- Orchestrator: n8n workflows
-- Knowledge: vector database + Data Commons Gemma
-- Model layer: embeddinggemma + scenario generation API
-- Optional transport: gRPC for module services
+Високорівнева архітектура:
+- Оркестратор: n8n?воркфлоу
+- Знання: векторна база + Data Commons Gemma
+- Модельний шар: embeddinggemma + API для генерації сценаріїв
+- Опційний транспорт: gRPC для модульних сервісів
 
-Goal: keep interfaces stable while allowing internal upgrades.
+Ціль: тримати інтерфейси стабільними, дозволяючи внутрішні оновлення.

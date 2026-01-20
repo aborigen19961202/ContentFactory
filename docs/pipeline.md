@@ -1,12 +1,12 @@
 ---
-title: Pipeline
+title: Конвеєр
 ---
 
-Proposed pipeline:
-1) Topic selection and research
-2) Retrieval and grounding
-3) Script generation
-4) Visual plan and asset creation
-5) Audio generation and mix
-6) Assembly and quality checks
-7) Upload and metadata
+Запропонований конвеєр:
+1) Вибір теми та ресерч
+2) Ретрив і ґраундинг
+3) Генерація сценарію
+4) Візуальний план і створення активів
+5) Генерація аудіо та мікс
+6) Збірка і перевірки якості
+7) Завантаження і метадані

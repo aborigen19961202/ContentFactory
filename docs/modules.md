@@ -1,11 +1,11 @@
 ---
-title: Modules
+title: Модулі
 ---
 
-Planned modules:
-- Script module (story and narration)
-- Visual module (images, video, animation)
-- Audio module (voice, music, SFX)
-- Upload module (publishing and metadata)
+Плановані модулі:
+- Сценарний модуль (сюжети й дикторський текст)
+- Візуальний модуль (зображення, відео, анімація)
+- Аудіо модуль (голос, музика, SFX)
+- Модуль завантаження (публікація й метадані)
 
-Each module should be independently swappable and testable.
+Кожен модуль має бути незалежно замінюваним і тестованим.

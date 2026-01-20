@@ -1,15 +1,15 @@
 ---
-title: Overview
+title: Огляд
 ---
 
-ContentFactory is a modular, automated agent pipeline for creating YouTube content at scale.
+ContentFactory — це модульний, автоматизований агентний конвеєр для створення контенту на YouTube у масштабі.
 
-Focus areas:
-- Multi-format support (story, science, entertainment, anime)
-- Vector databases for retrieval and memory
-- n8n as the workflow orchestrator
-- Embeddings via embeddinggemma
-- Data Commons Gemma for structured knowledge
-- Optional gRPC services
+Ключові напрями:
+- Підтримка різних форматів (історії, наука, розваги, аніме)
+- Векторні бази даних для пошуку й пам?яті
+- n8n як оркестратор робочих процесів
+- Embeddings через embeddinggemma
+- Data Commons Gemma для структурованих знань
+- Опційні gRPC?сервіси
 
-This wiki captures the shared project context for both the human and the agent.
+Ця вікі фіксує спільний контекст проєкту для людини й агента.

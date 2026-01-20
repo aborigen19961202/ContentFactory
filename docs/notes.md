@@ -1,5 +1,5 @@
 ---
-title: Notes
+title: Нотатки
 ---
 
-Working notes, decisions, and open questions live here.
+Робочі нотатки, рішення та відкриті питання — тут.
