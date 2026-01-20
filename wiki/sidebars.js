@@ -12,7 +12,6 @@ const sidebars = {
       collapsible: true,
       collapsed: true,
       items: [
-        'modules',
         'modules/script',
         'modules/visual',
         'modules/audio',
