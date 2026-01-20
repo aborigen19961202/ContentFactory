@@ -5,7 +5,7 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   wikiSidebar: [
-    {type: 'doc', id: 'index'},
+    {type: 'doc', id: 'index', label: 'Головна'},
     {type: 'doc', id: 'modules'},
     {type: 'doc', id: 'architecture'},
     {type: 'doc', id: 'pipeline'},
