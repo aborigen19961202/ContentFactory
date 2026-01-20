@@ -3,9 +3,10 @@ title: Modules
 ---
 
 Planned modules:
-- Script module (story and narration)
-- Visual module (images, video, animation)
-- Audio module (voice, music, SFX)
-- Upload module (publishing and metadata)
+- [Script module](modules/script)
+- [Visual module](modules/visual)
+- [Audio module](modules/audio)
+- [Assembly module](modules/assembly)
+- [Upload module](modules/upload)
 
 Each module should be independently swappable and testable.
