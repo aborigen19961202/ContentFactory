@@ -1,5 +1,5 @@
 ﻿---
-title: Overview
+title: Home
 ---
 
 ContentFactory is a modular, automated agent pipeline for creating YouTube content at scale.
