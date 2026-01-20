@@ -1,4 +1,4 @@
-// @ts-check
+﻿// @ts-check
 // `@type` JSDoc annotations allow editor autocompletion and type checking
 // (when paired with `@ts-check`).
 // There are various equivalent ways to declare your Docusaurus config.
@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ContentFactory',
-  tagline: 'Automated content pipeline for YouTube',
+  tagline: 'Автоматизований агент-конвеєр для YouTube',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -40,7 +40,7 @@ const config = {
     locales: ['uk', 'en'],
     localeConfigs: {
       uk: {
-        label: '���������',
+        label: 'Українська',
       },
       en: {
         label: 'English',
@@ -84,7 +84,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'wikiSidebar',
             position: 'left',
-            label: 'Wiki',
+            label: 'Вікі',
           },
           {
             type: 'localeDropdown',
@@ -92,7 +92,7 @@ const config = {
           },
           {
             href: 'https://github.com/aborigen19961202/ContentFactory',
-            label: 'Repo',
+            label: 'Репозиторій',
             position: 'right',
           },
         ],

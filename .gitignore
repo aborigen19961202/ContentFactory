@@ -1,12 +1,12 @@
 # Dependencies
-/node_modules
+/wiki/node_modules
 
 # Production
-/build
+/wiki/build
 
 # Generated files
-.docusaurus
-.cache-loader
+/wiki/.docusaurus
+/wiki/.cache-loader
 
 # Misc
 .DS_Store
