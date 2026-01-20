@@ -1,0 +1,6 @@
+site_name: ContentFactory
+nav:
+  - Home: index.md
+  - Modules: modules.md
+  - Architecture: architecture.md
+  - Notes: notes.md
