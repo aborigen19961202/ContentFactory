@@ -11,6 +11,7 @@ const sidebars = {
       label: 'Модулі',
       collapsible: true,
       collapsed: true,
+      link: {type: 'doc', id: 'modules/index'},
       items: [
         'modules/script',
         'modules/visual',
